@@ -1,0 +1,17 @@
+.text-primary {
+  color: #28a745;
+}
+
+.text-secondary {
+  color: #0284d0;
+}
+
+.btn-light {
+  background-color: #ffffff;
+  padding: 8px;
+  border-radius: 2px ;
+}
+
+.btn-light:hover  {
+text-decoration: underline;
+}
